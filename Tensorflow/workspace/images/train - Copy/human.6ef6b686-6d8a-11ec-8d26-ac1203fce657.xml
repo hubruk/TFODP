@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human</folder>
+	<filename>human.6ef6b686-6d8a-11ec-8d26-ac1203fce657.jpg</filename>
+	<path>D:\GitHub\TFODP\Tensorflow\workspace\images\collectedimages\human\human.6ef6b686-6d8a-11ec-8d26-ac1203fce657.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>321</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>56</ymin>
+			<xmax>229</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
